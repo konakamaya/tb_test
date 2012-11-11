@@ -9,7 +9,7 @@
 
     <!-- Le styles -->
 	<link rel='stylesheet/less' href='bootstrap/less/bootstrap.less'/>
-	<script src="boostrap/less/less.js/dist/less-1.3.1.js"></script>
+	<script src="less/dist/less-1.3.1.js"></script>
 
     <style type="text/css">
       body {
